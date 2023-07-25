@@ -1,6 +1,6 @@
 # Top 250 IMDb
 
-Простое приложение, показывающее топ-250 IMDb.
+Приложение, показывающее топ-250 IMDb.
 
 [Главный экран](https://drive.google.com/file/d/1LSEWh-hSzH9b0MZERlgCEXAzNjZP92Lj/view?usp=sharing)
 
